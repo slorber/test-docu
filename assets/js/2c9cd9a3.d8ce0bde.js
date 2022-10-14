@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest_docu=self.webpackChunktest_docu||[]).push([[411],{3088:s=>{s.exports=JSON.parse('{"label":"bluehats","permalink":"/blog/tags/bluehats","allTagsPath":"/blog/tags","count":1}')}}]);

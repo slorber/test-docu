@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest_docu=self.webpackChunktest_docu||[]).push([[1680],{5397:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/bluehats","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
